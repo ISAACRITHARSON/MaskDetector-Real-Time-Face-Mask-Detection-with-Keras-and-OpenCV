@@ -1,2 +1,2 @@
 # Mask-Detection
-Useful to Detect whether a person is wearing a mask or not. Libraries used: Tensorflow, Keras, cv2.
+Useful to Detect whether a person is wearing a mask or not. Libraries used: Tensorflow, keras, cv2.
